@@ -1,4 +1,24 @@
 /*  your css code here. If applicable */
-table, th, td {
-  border: 1px solid black;
+
+ body {
+     text-align: center;
+}
+h1 {
+	text-align: center;
+}
+.middle {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 20px;
+}
+td, th {
+    border: 1px solid black;
+    padding: 1px;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
 }
